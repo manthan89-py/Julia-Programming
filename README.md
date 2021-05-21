@@ -13,7 +13,7 @@
   * Julia File ( .jl )
   * PDF File ( .pdf )
 
-# Code :
+# Code ⬇️:
 * Download Code as Zip **OR**
 ```
 git clone https://github.com/manthan89-py/Julia-Programming.git
@@ -22,7 +22,7 @@ git clone https://github.com/manthan89-py/Julia-Programming.git
 # Credits ❤️ :
 * Refrence Video Tutorial Julia Programming By Abhishek Agrawal
 * Link : https://www.youtube.com/watch?v=lwj-1mclq0U
-* Thank You Very Much Abhishek Agrawal.
+* Thank You Very Much Abhishek Agrawal.🤝🤝
 
 # Basic Julia 🌟:
 ## In the Basic Julia Following Topics were Covered :
