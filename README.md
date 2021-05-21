@@ -1,3 +1,7 @@
+<h1 align='center'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1280px-Julia_Programming_Language_Logo.svg.png" height="50%" width ="50%"></img>
+</h1>
+
 # Julia-Programming🌟:
 * Julia basic Programs and Intermediate Programs Available in this Repository.
 * Julia is very similar to Python.
