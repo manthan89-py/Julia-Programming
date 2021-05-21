@@ -1,4 +1,6 @@
+<h1 align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1280px-Julia_Programming_Language_Logo.svg.png" height="50%" width ="50%"></img>
+</h1>
 
 <h1 style="color:green" >Julia Programming Basics</h1>
 
