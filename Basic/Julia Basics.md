@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1280px-Julia_Programming_Language_Logo.svg.png" height="300" width ="300"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1280px-Julia_Programming_Language_Logo.svg.png" height="300" width ="350"></img>
 
 <h1 style="color:green" >Julia Programming Basics</h1>
 
