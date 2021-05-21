@@ -8,16 +8,15 @@
 * * Basic
 * * Intermediate
 * In Both Of this Folder there 4 Types of Files Available :
-* * IPython Notebook ( .ipynb )
-* * Markdown ( .md )
-* * Julia File ( .jl )
-* * PDF File ( .pdf )
+..* IPython Notebook ( .ipynb )
+  * * Markdown ( .md )
+  * * Julia File ( .jl )
+  * * PDF File ( .pdf )
 
 # Code :
 * Download Code as Zip **OR**
 ```
 git clone https://github.com/manthan89-py/Julia-Programming.git
-
 ```
 
 # Credits ❤️ :
