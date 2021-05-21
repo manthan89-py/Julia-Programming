@@ -5,13 +5,13 @@
 * Julia Code execution is Much faster then Python.
 * So we can say Julia is Scripting is Like Python and Running like C++.
 * There are Currently Two Folder in this Repository.
-* * Basic
-* * Intermediate
+..* Basic
+..* Intermediate
 * In Both Of this Folder there 4 Types of Files Available :
 ..* IPython Notebook ( .ipynb )
-  * * Markdown ( .md )
-  * * Julia File ( .jl )
-  * * PDF File ( .pdf )
+..* Markdown ( .md )
+..* Julia File ( .jl )
+..* PDF File ( .pdf )
 
 # Code :
 * Download Code as Zip **OR**
