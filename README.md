@@ -5,6 +5,6 @@
 * Julia Code execution is Much faster then Python.
 * So we can say Julia is Scripting is Like Python and Running like C++.
 * There are Currently Two Folder in this Repository.
- * 1. Basic
- * 2. Intermediate
+ 1.1. Basic
+ 2.2. Intermediate
 
